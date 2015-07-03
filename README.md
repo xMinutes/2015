@@ -11,3 +11,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 | Chester How | [Profile](http://github.com/chesterhow) | [Twitter](http://twitter.com/itsnotchester) [Instagram](http://instagram.com/itsnotchester) | Interested in Android apps and web design |  |
 | Daniel Lee | [Profile](http://github.com/dandaandaaaaaan) | [Twitter](http://twitter.com/dandaandaaaaaan) [Instagram](http://instagram.com/dannnnnniel) | Interested in learning Android development | |
 | Amos Tan | [Profile] (http://github.com/AlphaTRL) | [Twitter](http://twitter.com/alphatrl) [Instagram](http://instagram.com/alphatrl) | I am interested in developing mobile apps | |
+| Hao Wei | http://github.com/example | [Twitter](http://twitter.com/something) [Instagram](#) [Facebook]() | I am interested in designing websites |  | 
