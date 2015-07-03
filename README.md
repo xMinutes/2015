@@ -12,3 +12,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 | Daniel Lee | [Profile](http://github.com/dandaandaaaaaan) | [Twitter](http://twitter.com/dandaandaaaaaan) [Instagram](http://instagram.com/dannnnnniel) | Interested in learning Android development | |
 | Amos Tan | [Profile] (http://github.com/AlphaTRL) | [Twitter](http://twitter.com/alphatrl) [Instagram](http://instagram.com/alphatrl) | I am interested in developing mobile apps | |
 | Hao Wei | http://github.com/example | [Twitter](http://twitter.com/something) [Instagram](#) [Facebook]() | I am interested in designing websites |  | 
+| Kai Ying | https://github.com/laiky1 | [Twitter](https://twitter.com/kaiying1991) | I am interested to build a DIY PC | |
