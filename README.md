@@ -8,5 +8,5 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 | ---- | ----------- | ------------ | ---------------------------------- | ------------- |
 | Duncan Leo | [Profile](http://github.com/duncanleo) | [Twitter](http://twitter.com/duncanleo97) | I build Android apps and do Web Development in Go | [Link](http://duncanleo.github.io) |
 | Jurvis Tan | [Profile](http://github.com/jurvis) | [Twitter](http://twitter.com/jurvistan) [Instagram](http://instagram.com/jurvistan) | I build iOS apps and occasionally do web design/development work | [Portfolio](http://jurvis.co/) |
-| Chester How | [Profile](http://github.com/chesterhow) | [Twitter](http://twitter.com/itsnotchester) [Instagram](http://instagram.com/itsnotchester) | Interested in Android apps and web design |  |
+| Chester How | [Profile](http://github.com/chesterhow) | [Twitter](http://twitter.com/itsnotchester) [Instagram](http://instagram.com/itsnotchester) | Interested in Android apps and web design | (╭ರ_⊙) |
 | Amos Tan | [Profile] (http://github.com/AlphaTRL) | [Twitter](http://twitter.com/alphatrl) [Instagram](http://instagram.com/alphatrl) | I am interested in developing mobile apps | |
