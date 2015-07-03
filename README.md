@@ -15,4 +15,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 | Woo Huiren | [Profile] (http://github.com/GIANTCRAB) | [Twitter](http://twitter.com/woohuiren) [Instagram](http://instagram.com/woohuiren) [Facebook](https://www.facebook.com/huiren.woo) [Google Plus](https://plus.google.com/+HuirenWoo) [LinkedIn](https://www.linkedin.com/in/woohuiren) [Youtube](https://www.youtube.com/c/HuirenWoo) | I am interested in premium servers like VULTR | [Portfolio](https://woohuiren.me/) |
 | Ho Zong Han | [Profile](https://github.com/sharpstorm) | [Facebook](http://facebook.com/chimchar17) | Interested in developing Android apps| |
 | Tan Wei Xun | [Profile](https://github.com/WeiXun) | [Instagram](https://instagram.com/wei_xun/) [Facebook](https://www.facebook.com/tan.wei.xun) | Interested in the hardware and the software within a computer |  |
-| Kai Ying | https://github.com/laiky1 | [Twitter](https://twitter.com/kaiying1991) | I am interested to build a DIY PC | |
+| Kai Ying | [Profile](https://github.com/laiky1) | [Twitter](https://twitter.com/kaiying1991) | I am interested to build a DIY PC | |
