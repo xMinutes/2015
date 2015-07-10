@@ -16,3 +16,4 @@ To add yourself to the list, just submit a [pull request](https://github.com/np-
 | Ho Zong Han | [Profile](https://github.com/sharpstorm) | [Facebook](http://facebook.com/chimchar17) | Interested in developing Android apps| |
 | Tan Wei Xun | [Profile](https://github.com/WeiXun) | [Instagram](https://instagram.com/wei_xun/) [Facebook](https://www.facebook.com/tan.wei.xun) | Interested in the hardware and the software within a computer |  |
 | Kai Ying | [Profile](https://github.com/laiky1) | [Twitter](https://twitter.com/kaiying1991) | I am interested to build a DIY PC | |
+| Hui Yi | [Profile](https://github.com/xminutes) | [Twitter](https://twitter.com/carbondioxidecd) | I am interested to build pretty website | |
